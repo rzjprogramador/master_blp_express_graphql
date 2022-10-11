@@ -1,0 +1,11 @@
+GET {{host}}/api/exemplo1-get
+Content-Type: application/json
+
+###
+POST {{host}}/api/exemplo1-post
+Content-Type: application/json
+
+{
+    "prop1": "prop1",
+    "prop2": "prop2_2"
+}
