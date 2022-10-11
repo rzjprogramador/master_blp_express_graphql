@@ -1,8 +1,7 @@
 {
   "name": "master_blp_express_graphql",
   "version": "1.0.0",
-  "description": "master_blp_express_graphql
-",
+  "description": "master_blp_express_graphql",
   "main": "index.js",
   "scripts": {
     "start": "node dist/src/main/server.js",
@@ -14,8 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rzjprogramador/master_blp_express_graphql
-.git"
+    "url": "git+https://github.com/rzjprogramador/master_blp_express_graphql.git"
   },
   "keywords": [],
   "author": "",
