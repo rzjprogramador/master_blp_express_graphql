@@ -1,6 +1,3 @@
-import exemplo1 from '@src/testers/exemplo1/endpoint_graphql/exemplo1.resolvers'
+import exemplo1 from "@src/testers/exemplo1/endpoint_graphql/exemplo1.resolvers"
 
-
-export default [
-    exemplo1,
-]
+export default [exemplo1]

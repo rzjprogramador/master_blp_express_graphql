@@ -1,8 +1,8 @@
-import 'module-alias/register'
-import 'express-async-errors'
+import "module-alias/register"
+import "express-async-errors"
 
-import app from '@src/main/config/app'
-import { env } from '@src/main/env/enviroments'
+import app from "@src/main/config/app"
+import { env } from "@src/main/env/enviroments"
 
 const PORT: number = env.portExpress
 

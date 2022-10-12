@@ -1,5 +1,4 @@
-import { gql } from 'apollo-server-express'
-
+import { gql } from "apollo-server-express"
 
 const exemplo1TypeDefs = gql`
   type Exemplo1 {
@@ -13,14 +12,12 @@ const exemplo1TypeDefs = gql`
   }
 
   type Query {
-  exemplo1Inicio: String
+    exemplo1Inicio: String
   }
 
-type Mutation {
-  createExemplo1(createExemplo1Input: CreateExemplo1Input): Exemplo1
-}
+  type Mutation {
+    createExemplo1(createExemplo1Input: CreateExemplo1Input): Exemplo1
+  }
 `
 
 export default exemplo1TypeDefs
-
-

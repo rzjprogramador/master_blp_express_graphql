@@ -1,6 +1,3 @@
-import exemplo1 from '@src/testers/exemplo1/endpoint_graphql/exemplo1.typedefs'
+import exemplo1 from "@src/testers/exemplo1/endpoint_graphql/exemplo1.typedefs"
 
-
-export default [
-    exemplo1,
-]
+export default [exemplo1]
